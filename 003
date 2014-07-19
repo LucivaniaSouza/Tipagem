@@ -1,0 +1,4 @@
+# Mostre quantos caracteres tem a média aritmética entre 9,23 e 8,32
+
+media = (9.23 + 8.32) / 2.0
+media.to_s.size
