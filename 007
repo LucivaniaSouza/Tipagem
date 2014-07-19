@@ -1,0 +1,4 @@
+y = "10 bananas".to_i*5 + "abacaxi".to_f
+y.class
+
+puts y
