@@ -1,0 +1,7 @@
+# Calcule a média aritmética entre 8,12 e 7,45 e construa a string abaixo:
+# “A sua media foi de ? este ano!”
+# onde ? é o valor calculado
+
+media = (8.12 + 7.45) / 2.0
+  "A sua media foi de "+ media.to_s + " este ano!"
+  "A sua media foi de #{media} este ano!"
