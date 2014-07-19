@@ -1,0 +1,6 @@
+Tipagem
+=======
+# Verifique quantos caracteres tem o seu nome.
+
+x = "Lucivania"
+   x = x.size
