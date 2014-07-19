@@ -1,0 +1,2 @@
+exp = (10.0/3.1).to_i
+exp.class
